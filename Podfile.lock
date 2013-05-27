@@ -1,10 +1,13 @@
 PODS:
   - AFNetworking (1.2.1)
+  - ViewDeck (2.2.11)
 
 DEPENDENCIES:
   - AFNetworking
+  - ViewDeck
 
 SPEC CHECKSUMS:
   AFNetworking: a44069e3c9c89867544f6639482f155c7e5f9b41
+  ViewDeck: b5eddc8559b0e47259ab7addbf2de6768061f139
 
 COCOAPODS: 0.20.2
